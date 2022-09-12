@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igues de Lacerda
-- 👀 I’m interested in Mobile and backend development
-- 🌱 I’m currently learning api's and Entity Framework on Net Core 6
+- 👀 I’m interested in frontend mobile and backend development
+- 🌱 I’m currently learning React for frontend implementations
 - 📫 How to reach me: https://www.facebook.com/igues.lacerda
 
 <!---
